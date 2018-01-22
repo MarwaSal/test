@@ -1,0 +1,33 @@
+<html>
+<head><title> My website</title>
+</head>
+<body>
+<div id="container">
+<div id ="header">
+<h1> My website </h1>
+</div>
+<div id="content">
+<div id="nav">
+<h3> Navigation </h3>
+<ul>
+<li> Home </li>
+<li>About</li>
+<li>Contact</li>
+</ul>
+
+</div>
+<div id=main">
+<h2> Home page </h2>
+<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Accumsan in nisl nisi scelerisque. </p>
+<p>Morbi quis commodo odio aenean sed. Sem viverra aliquet eget sit amet tellus cras adipiscing. </p>
+<p>Laoreet id donec ultrices tincidunt arcu non. Nisi porta lorem mollis aliquam ut porttitor leo a diam.</p>
+</div>
+</div>
+<div id ="footer">
+</div>
+
+
+</div>
+
+</body>
+</html>
