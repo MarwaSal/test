@@ -1,5 +1,5 @@
 <html>
-<head><title> My website</title>
+<head><title> Marwa website</title>
 </head>
 <body>
 <div id="container">
@@ -17,7 +17,7 @@
 
 </div>
 <div id=main">
-<h2> Home page </h2>
+<h2> New Home page </h2>
 <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Accumsan in nisl nisi scelerisque. </p>
 <p>Morbi quis commodo odio aenean sed. Sem viverra aliquet eget sit amet tellus cras adipiscing. </p>
 <p>Laoreet id donec ultrices tincidunt arcu non. Nisi porta lorem mollis aliquam ut porttitor leo a diam.</p>
